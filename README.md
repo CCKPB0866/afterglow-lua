@@ -111,7 +111,7 @@ Questions and pull requests are welcome.
 
 - **[well0nez](https://github.com/well0nez)** -- afterglow / afterglow-web: the kernel exploit, and the bulk of this project.
 - **[n0llptr](https://github.com/n0llptr)** -- remote_lua_loader, the host this runs in.
-- **[SiSTRo](https://github.com/SiSTR0)** and the [GoldHEN contributors](https://github.com/GoldHEN/GoldHEN)** -- GoldHEN and its patch set.
+- **[SiSTRo](https://github.com/SiSTR0)** and the [GoldHEN contributors](https://github.com/GoldHEN/GoldHEN) -- GoldHEN and its patch set.
 - **raw13** -- the WebKit entry upstream descends from (see the [afterglow-web](https://github.com/well0nez/afterglow-web) notes).
 - **[DeepSeek](https://www.deepseek.com)** -- AI assistant used during the port.
 
